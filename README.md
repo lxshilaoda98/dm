@@ -4,7 +4,8 @@
 
 首次登陆会提示
 
-![image-20210302211244835](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210302211244835.png)
+![image-20210302211244835](https://user-images.githubusercontent.com/66709085/110724267-6ba67e00-8250-11eb-9cb6-5383d0f4a1f0.png)
+
 
 出现此问题配置话机即可
 
