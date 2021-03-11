@@ -1,6 +1,6 @@
 # 软电话
 
-地址：http://39.97.233.183:8000/softphone
+地址：http://xx:8000/softphone
 
 首次登陆会提示
 
